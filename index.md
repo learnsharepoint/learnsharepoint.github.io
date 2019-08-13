@@ -4,9 +4,9 @@ This site provides your free resources for SPFx Development. [editor on GitHub] 
 
 All the code is placed in public repositories and everyone is free to download and modify.
 
-### Markdown
+### What's provided
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Only SPFx Projects are included. One GitHub repository per WebPart or Extension Project.
 
 ```markdown
 Syntax highlighted code block
