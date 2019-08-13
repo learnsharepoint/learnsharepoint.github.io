@@ -12,8 +12,8 @@ Only SPFx Projects are included. One GitHub repository per WebPart or Extension 
 
 ## SPFx Projects
 
-1. https://github.com/learnsharepoint/stockwebpart
-2. https://github.com/learnsharepoint/newswebpart
+1. Link[Stock WebPart](https://github.com/learnsharepoint/stockwebpart)
+2. Link[News WebPart](https://github.com/learnsharepoint/newswebpart)
 
 
 ```
