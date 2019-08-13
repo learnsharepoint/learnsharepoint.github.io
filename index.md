@@ -1,8 +1,8 @@
 ## Welcome to Learn SharePoint
 
-This site provides your free resources for SPFx Development. [editor on GitHub](https://github.com/learnsharepoint/learnsharepoint.github.io/edit/master/index.md) 
+This site provides your free resources for SPFx Development. [editor on GitHub] You can view all the free source code at (https://github.com/learnsharepoint/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All the code is placed in public repositories and everyone is free to download and modify.
 
 ### Markdown
 
