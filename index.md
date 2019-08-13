@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Contact us in case you need any information or help with the GitHub Repositories [contact support] (mailto:learnsharepoint.in@gmail.com) and we’ll help you sort it out.
+Contact us in case you need any information or help with the GitHub Repositories [mailto:learnsharepoint.in@gmail.com] and we’ll be glad to help you.
