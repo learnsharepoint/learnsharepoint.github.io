@@ -10,13 +10,11 @@ Only SPFx Projects are included. One GitHub repository per WebPart or Extension 
 
 ```markdown
 
-# SPFx Projects
+## SPFx Projects
 
 1. https://github.com/learnsharepoint/stockwebpart
 2. https://github.com/learnsharepoint/newswebpart
 
-
-![Image](src)
 
 ```
 
