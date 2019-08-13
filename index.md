@@ -9,28 +9,16 @@ All the code is placed in public repositories and everyone is free to download a
 Only SPFx Projects are included. One GitHub repository per WebPart or Extension Project.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# SPFx Projects
 
-- Bulleted
-- List
+1. [Link](https://github.com/learnsharepoint/stockwebpart)
+2. [Link](https://github.com/learnsharepoint/newswebpart)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![Image](src)
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/learnsharepoint/learnsharepoint.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
