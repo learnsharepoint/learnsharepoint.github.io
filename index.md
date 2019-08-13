@@ -8,13 +8,12 @@ All the code is placed in public repositories and everyone is free to download a
 
 Only SPFx Projects are included. One GitHub repository per WebPart or Extension Project.
 
-```markdown
-
 ## SPFx Projects
 
 1. Link[Stock WebPart](https://github.com/learnsharepoint/stockwebpart)
 2. Link[News WebPart](https://github.com/learnsharepoint/newswebpart)
 
+```markdown
 
 ```
 
